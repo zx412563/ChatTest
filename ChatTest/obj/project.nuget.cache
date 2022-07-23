@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwY9FxsBc+Z8p4TJ1iW83zRWKmdcOlxcBD9FkbVX8u3JnS3lJO0REp8lxG9lDyDQf/YYkSe8vEumZz3qJeDcUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ax12a\\Desktop\\史塔克\\ASPNETLearn\\ChatTest\\ChatTest\\ChatTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ax12a\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\ax12a\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\ax12a\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
